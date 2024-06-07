@@ -16,18 +16,18 @@
 // limitations under the License.
 
 import 'dart:math' show Point, Rectangle;
-import 'package:charts_common/src/chart/bar/bar_target_line_renderer.dart';
-import 'package:charts_common/src/chart/bar/bar_target_line_renderer_config.dart';
-import 'package:charts_common/src/chart/bar/base_bar_renderer.dart';
-import 'package:charts_common/src/chart/bar/base_bar_renderer_config.dart';
-import 'package:charts_common/src/chart/cartesian/cartesian_chart.dart';
-import 'package:charts_common/src/chart/cartesian/axis/axis.dart';
-import 'package:charts_common/src/chart/common/chart_canvas.dart';
-import 'package:charts_common/src/chart/common/chart_context.dart';
-import 'package:charts_common/src/chart/common/processed_series.dart'
+import 'package:charts_common_sa/src/chart/bar/bar_target_line_renderer.dart';
+import 'package:charts_common_sa/src/chart/bar/bar_target_line_renderer_config.dart';
+import 'package:charts_common_sa/src/chart/bar/base_bar_renderer.dart';
+import 'package:charts_common_sa/src/chart/bar/base_bar_renderer_config.dart';
+import 'package:charts_common_sa/src/chart/cartesian/cartesian_chart.dart';
+import 'package:charts_common_sa/src/chart/cartesian/axis/axis.dart';
+import 'package:charts_common_sa/src/chart/common/chart_canvas.dart';
+import 'package:charts_common_sa/src/chart/common/chart_context.dart';
+import 'package:charts_common_sa/src/chart/common/processed_series.dart'
     show MutableSeries;
-import 'package:charts_common/src/common/color.dart';
-import 'package:charts_common/src/data/series.dart' show Series;
+import 'package:charts_common_sa/src/common/color.dart';
+import 'package:charts_common_sa/src/data/series.dart' show Series;
 
 import 'package:mockito/mockito.dart';
 import 'package:test/test.dart';

@@ -16,8 +16,8 @@
 // limitations under the License.
 
 import 'dart:math' show Point, Rectangle;
-import 'package:charts_common/src/chart/scatter_plot/comparison_points_decorator.dart';
-import 'package:charts_common/src/chart/scatter_plot/point_renderer.dart';
+import 'package:charts_common_sa/src/chart/scatter_plot/comparison_points_decorator.dart';
+import 'package:charts_common_sa/src/chart/scatter_plot/point_renderer.dart';
 
 import 'package:test/test.dart';
 

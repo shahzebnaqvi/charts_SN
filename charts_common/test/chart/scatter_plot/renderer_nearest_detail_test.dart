@@ -17,7 +17,7 @@
 
 import 'dart:math';
 
-import 'package:charts_common/common.dart';
+import 'package:charts_common_sa/common.dart';
 import 'package:mockito/mockito.dart';
 
 import 'package:test/test.dart';

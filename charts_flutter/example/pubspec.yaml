@@ -5,7 +5,7 @@ environment:
   flutter: '>=3.16.2'
 
 dependencies:
-  charts_flutter:
+  charts_flutter_sa:
     path: ../
   cupertino_icons: ^1.0.6
   flutter:
@@ -13,6 +13,6 @@ dependencies:
   flutter_test:
     sdk: flutter
   meta: ^1.10.0
-  intl: 0.18.0
+  intl: ^0.18.0
 flutter:
   uses-material-design: true

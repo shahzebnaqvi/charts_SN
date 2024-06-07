@@ -20,13 +20,13 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "charts_common",
-      "rootUri": "file:///Users/shahzaibnaqvi/.pub-cache/git/charts-b2661c3a7652f979dc02b2f530038c47ee28b936/charts_common",
+      "name": "charts_common_sa",
+      "rootUri": "file:///Users/shahzaibnaqvi/.pub-cache/hosted/pub.dev/charts_common_sa-0.13.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
-      "name": "charts_flutter",
+      "name": "charts_flutter_sa",
       "rootUri": "../../",
       "packageUri": "lib/",
       "languageVersion": "2.12"
@@ -164,7 +164,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2024-06-07T20:05:59.462925Z",
+  "generated": "2024-06-07T20:23:23.323512Z",
   "generator": "pub",
   "generatorVersion": "3.2.6"
 }

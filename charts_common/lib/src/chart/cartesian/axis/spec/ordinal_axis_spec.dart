@@ -13,7 +13,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-import 'package:charts_common/src/chart/cartesian/axis/scale.dart'
+import 'package:charts_common_sa/src/chart/cartesian/axis/scale.dart'
     show RangeBandConfig;
 import 'package:meta/meta.dart' show immutable;
 

@@ -1,6 +1,6 @@
 # Common Charting library
 
-[![pub package](https://img.shields.io/pub/v/charts_common.svg)](https://pub.dartlang.org/packages/charts_common)
+[![pub package](https://img.shields.io/pub/v/charts_common_sa.svg)](https://pub.dartlang.org/packages/charts_common_sa)
 
 Common componnets for charting libraries.
 

@@ -7,7 +7,7 @@ Example:
 ```
 /// Bar chart example
 import 'package:flutter/material.dart';
-import 'package:charts_flutter/flutter.dart' as charts;
+import 'package:charts_flutter_sa/flutter.dart' as charts;
 
 /// Example of a stacked bar chart with three series, each rendered with
 /// different fill colors.

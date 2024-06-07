@@ -6,7 +6,7 @@ Example:
 
 ```
 /// Example of a simple line chart.
-import 'package:charts_flutter/flutter.dart' as charts;
+import 'package:charts_flutter_sa/flutter.dart' as charts;
 import 'package:flutter/material.dart';
 
 class SimpleLineChart extends StatelessWidget {

@@ -13,7 +13,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-import 'package:charts_common/common.dart' as common
+import 'package:charts_common_sa/common.dart' as common
     show GraphicsFactory, LineStyle, TextElement, TextStyle;
 import 'package:flutter/widgets.dart'
     show BuildContext, DefaultTextStyle, MediaQuery;

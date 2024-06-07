@@ -10,7 +10,7 @@ Example:
 /// Null values will be visible as gaps in lines and area skirts. Any data
 /// points that exist between two nulls in a line will be rendered as an
 /// isolated point, as seen in the green series.
-import 'package:charts_flutter/flutter.dart' as charts;
+import 'package:charts_flutter_sa/flutter.dart' as charts;
 import 'package:flutter/material.dart';
 
 class SimpleNullsLineChart extends StatelessWidget {

@@ -16,7 +16,7 @@ Example:
 /// The selection will remain on the chart unless another behavior is added
 /// that updates the selection.
 
-import 'package:charts_flutter/flutter.dart' as charts;
+import 'package:charts_flutter_sa/flutter.dart' as charts;
 import 'package:flutter/material.dart';
 
 class InitialSelection extends StatelessWidget {

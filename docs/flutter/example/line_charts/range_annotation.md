@@ -6,7 +6,7 @@ Example:
 
 ```
 /// Line chart with range annotations example.
-import 'package:charts_flutter/flutter.dart' as charts;
+import 'package:charts_flutter_sa/flutter.dart' as charts;
 import 'package:flutter/material.dart';
 
 class LineRangeAnnotationChart extends StatelessWidget {

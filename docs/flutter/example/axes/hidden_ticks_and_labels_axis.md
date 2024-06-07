@@ -7,7 +7,7 @@ Example:
 ```
 /// No Axis Example
 import 'package:flutter/material.dart';
-import 'package:charts_flutter/flutter.dart' as charts;
+import 'package:charts_flutter_sa/flutter.dart' as charts;
 
 /// Example of hiding both axis.
 class HiddenTicksAndLabelsAxis extends StatelessWidget {

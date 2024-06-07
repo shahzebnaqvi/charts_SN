@@ -7,7 +7,7 @@ Example:
 ```
 /// Example of a line chart with range annotations configured to render labels
 /// in the chart margin area.
-import 'package:charts_flutter/flutter.dart' as charts;
+import 'package:charts_flutter_sa/flutter.dart' as charts;
 import 'package:flutter/material.dart';
 
 class LineRangeAnnotationMarginChart extends StatelessWidget {
