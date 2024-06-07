@@ -1,18 +1,33 @@
-# Flutter Charting library
+# Flutter Charting Library
 
 [![pub package](https://img.shields.io/pub/v/charts_flutter_sa.svg)](https://pub.dartlang.org/packages/charts_flutter_sa)
 
 Material Design data visualization library written natively in Dart.
 
-## Supported charts
+## Features
 
-See the [online gallery](https://google.github.io/charts/flutter/gallery.html).
+- Supports a variety of chart types
+- Fully customizable and extensible
+- High performance with large datasets
+- Easy to integrate with existing Flutter applications
 
-## Using the library
+## Supported Charts
 
-The `/example/` folder inside `charts_flutter_sa` in the [GitHub repo](https://github.com/google/charts)
-contains a full Flutter app with many demo examples.
+- Line Charts
+- Bar Charts
+- Pie Charts
+- Scatter Plot Charts
+- Time Series Charts
 
-## Development
-This project is developed internally at Google and published for external
-consumption, external contributions unfortunately cannot be taken at this time.
+See the [online gallery](https://google.github.io/charts/flutter/gallery.html) for examples of each chart type.
+
+## Getting Started
+
+### Installation
+
+Add the following to your `pubspec.yaml` file:
+
+```yaml
+dependencies:
+  charts_flutter_sa: latest_version
+۔۔
